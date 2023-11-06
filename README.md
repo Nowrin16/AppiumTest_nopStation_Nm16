@@ -1,5 +1,6 @@
 # AppiumTest_nopStation_Nm16
-**Project Name: NopStation App Automation**
+**Project Name**
+NopStation App Automation
 **Project Description**
 nopStation Cart APP automation, which is an e-commerce website.
 
